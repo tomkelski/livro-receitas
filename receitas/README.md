@@ -3,5 +3,6 @@
 
 Olá bem vindo ao meu livro de receitas :hand:
 
+- Strogonoff de frango
+- pave
 - 
-  
